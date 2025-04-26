@@ -101,8 +101,8 @@ The application also displays average metrics for all processes to help compare 
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/cpu-scheduler-simulator.git
-cd cpu-scheduler-simulator
+git clone https://github.com/Nirajd071/CPU-Scheduler-Simulator.git
+cd CPU-Scheduler-Simulator
 
 # Create a virtual environment
 python -m venv venv
@@ -152,7 +152,7 @@ The application will open in your default web browser at `http://localhost:8501`
 ## 📁 Project Structure
 
 ```
-cpu-scheduler-simulator/
+CPU-Scheduler-Simulator/
 ├── app.py                    # Main Streamlit application
 ├── scheduling_algorithms.py  # Implementation of scheduling algorithms
 ├── visualization.py          # Functions for creating visualizations
@@ -180,11 +180,11 @@ This project is open source and available under the MIT License.
 <div align="center">
   <p>Made with ❤️ for Operating Systems enthusiasts</p>
   <p>
-    <a href="https://github.com/yourusername">
-      <img src="https://img.shields.io/github/followers/yourusername?label=Follow&style=social" alt="GitHub followers">
+    <a href="https://github.com/Nirajd071">
+      <img src="https://img.shields.io/github/followers/Nirajd071?label=Follow&style=social" alt="GitHub followers">
     </a>
-    <a href="https://github.com/yourusername/cpu-scheduler-simulator">
-      <img src="https://img.shields.io/github/stars/yourusername/cpu-scheduler-simulator?style=social" alt="GitHub stars">
+    <a href="https://github.com/Nirajd071/CPU-Scheduler-Simulator">
+      <img src="https://img.shields.io/github/stars/Nirajd071/CPU-Scheduler-Simulator?style=social" alt="GitHub stars">
     </a>
   </p>
 </div>
